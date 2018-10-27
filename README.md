@@ -9,32 +9,32 @@
 ### Установка зависимостей
 
 ```
-  $ yarn
+$ yarn
 ```
 
 ### Компиляция и горячая перезагрузка (development mode)
 ```
-yarn serve
+$ yarn serve
 ```
 
 ### Компиляция и минификация проекта (production mode)
 ```
-yarn build
+$ yarn build
 ```
 
 ### Запуск всех тестов
 ```
-yarn test
+$ yarn test
 ```
 
 ### Проверка и исправление ошибок в коде
 ```
-yarn lint
+$ yarn lint
 ```
 
 ### Запуск unit тестов
 ```
-yarn test:unit
+$ yarn test:unit
 ```
 
 <h2 align="center">Список экспериментов</h2>
