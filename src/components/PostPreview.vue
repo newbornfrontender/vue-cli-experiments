@@ -78,11 +78,11 @@ export default {
   border-radius: 20px;
   transform: scale(0.98);
   box-shadow: 0px 2px 3px #3d5561;
+  transition-duration: 0.2s;
 }
 
 .post:not(:last-child) {
   margin-bottom: 12px;
-  transition-duration: 0.2s;
 }
 
 .post:hover {
