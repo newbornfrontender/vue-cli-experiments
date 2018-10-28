@@ -82,12 +82,12 @@ export default {
 
 .post:not(:last-child) {
   margin-bottom: 12px;
+  transition-duration: 0.2s;
 }
 
 .post:hover {
   transform: scale(1);
   box-shadow: 0px 3px 10px 1px #3d5561;
-  transition-duration: 0.2s;
 }
 
 .title {
