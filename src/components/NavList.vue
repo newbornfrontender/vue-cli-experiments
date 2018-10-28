@@ -16,6 +16,10 @@ export default {
         title: 'About',
         path: '/about',
       },
+      {
+        title: 'Posts',
+        path: '/posts',
+      },
     ],
   }),
 };
