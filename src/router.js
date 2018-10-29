@@ -25,5 +25,11 @@ export default new Router({
       component: () =>
         import(/* webpackChunkName: "posts" */ './views/Posts.vue'),
     },
+    {
+      path: '/media-queries',
+      name: 'media-queries',
+      component: () =>
+        import(/* webpackChunkName: "media-queries" */ './views/MediaQueries.vue'),
+    },
   ],
 });
