@@ -108,7 +108,7 @@ export default {
 .tag {
   margin-right: 4px;
   padding: 2px;
-  background-color: #9E9E9E;
+  background-color: #9e9e9e;
   color: #47484c;
   border-radius: 3px;
   cursor: pointer;
