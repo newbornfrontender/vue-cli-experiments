@@ -15,7 +15,15 @@ export default {
         imageHeight: 200,
         imageUrl:
           'http://www.lumete.it/wp-content/uploads/2016/09/code-944499_960_720.jpg',
-        tags: ['PHP', 'CSS', 'HTML', 'Code', 'Sublime Text 2', 'Introduction', 'Beginners'],
+        tags: [
+          'PHP',
+          'CSS',
+          'HTML',
+          'Code',
+          'Sublime Text 2',
+          'Introduction',
+          'Beginners',
+        ],
         preview: 'In this article I will tell you how to write code correctly',
       },
       {
