@@ -1,5 +1,5 @@
 module.exports = {
-  parser: 'sugarss',
+  // parser: 'sugarss',
   plugins: {
     autoprefixer: {},
   },
