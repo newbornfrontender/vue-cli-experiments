@@ -55,7 +55,7 @@ $ yarn test:unit
 
 - [ ] Проверить [Pug](https://github.com/pugjs/pug)
 - [x] Проверить [Stylus](https://github.com/stylus/stylus)
-- [ ] Проверить [SugarSS](https://github.com/postcss/sugarss)
+- [x] Проверить [SugarSS](https://github.com/postcss/sugarss)
 
 #### Медиа-разрешения
 
