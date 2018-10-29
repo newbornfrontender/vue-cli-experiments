@@ -57,6 +57,11 @@ $ yarn test:unit
 - [ ] Проверить [Stylus](https://github.com/stylus/stylus)
 - [ ] Проверить [SugarSS](https://github.com/postcss/sugarss)
 
+#### Медиа-разрешения
+
+- [ ] Протестировать [vue-media](https://github.com/egoist/vue-media)
+- [ ] Протестировать при помощи [vue-hooks](https://github.com/yyx990803/vue-hooks)
+
 <h2 align="center">Лицензия</h2>
 
 [MIT](/LICENSE)
