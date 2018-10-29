@@ -54,7 +54,7 @@ $ yarn test:unit
 #### Шаблонизаторы и (пре/пост)процессоры
 
 - [ ] Проверить [Pug](https://github.com/pugjs/pug)
-- [ ] Проверить [Stylus](https://github.com/stylus/stylus)
+- [x] Проверить [Stylus](https://github.com/stylus/stylus)
 - [ ] Проверить [SugarSS](https://github.com/postcss/sugarss)
 
 #### Медиа-разрешения
