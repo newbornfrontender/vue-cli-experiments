@@ -20,6 +20,10 @@ export default {
         title: 'Posts',
         path: '/posts',
       },
+      {
+        title: 'Media Queries',
+        path: '/media-queries',
+      },
     ],
   }),
 };
