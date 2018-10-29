@@ -5,5 +5,18 @@ export default {
 </script>
 
 <template>
-  <h1>About</h1>
+  <section>
+    <h1 :class="$style.title">About</h1>
+
+    <p>This is <span>About</span> page</p>
+    <p>
+      <vue-router to="/">Go to <span>Home</span></vue-router>
+    </p>
+  </section>
 </template>
+
+<style module>
+.title {
+  color: blue;
+}
+</style>
