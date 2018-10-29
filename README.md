@@ -48,7 +48,7 @@ $ yarn test:unit
 
 #### Фрагменты
 
-- [ ] Протестировать при помощи функциональных компонентов и рендер-функции. Полезные ссылки: [Can A Vue Template Have Multiple Root Nodes (Fragments)?](https://vuejsdevelopers.com/2018/09/11/vue-multiple-root-fragments/)
+- [x] Протестировать при помощи функциональных компонентов и рендер-функции. Полезные ссылки: [Can A Vue Template Have Multiple Root Nodes (Fragments)?](https://vuejsdevelopers.com/2018/09/11/vue-multiple-root-fragments/)
 - [ ] Протестировать при помощи [vue-fragment](https://github.com/y-nk/vue-fragment)
 
 #### Шаблонизаторы и (пре/пост)процессоры
