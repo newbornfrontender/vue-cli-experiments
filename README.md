@@ -58,7 +58,7 @@ $ yarn test:unit
 
 #### Медиа-разрешения
 
-- [ ] Протестировать [vue-media](https://github.com/egoist/vue-media)
+- [x] Протестировать [vue-media](https://github.com/egoist/vue-media)
 - [ ] Протестировать при помощи [vue-hooks](https://github.com/yyx990803/vue-hooks)
 
 <h2 align="center">Лицензия</h2>
